@@ -40,5 +40,5 @@ All three variables have p-values close to zero, indicating that they are highly
 Stakeholders should consider:
 - Including a larger living area for their house rennovations since it fetches a higher price
 - Including more bathrooms in their house rennovations since price increases with increase in the number of bathrooms depending on our final model
-- Excluding a waterfront from their houses during rennovations or buying houses without a waterfront. This is becauase according to our final multiple regression model, the waterfront is negatively correlated with price
+- Excluding a waterfront from their houses during rennovations or buying houses without a waterfront. This is becauase according to our final multiple regression model, the waterfront is negatively correlated with price.
 
